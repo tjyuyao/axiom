@@ -1,7 +1,7 @@
 # AXIOM
 
-This repository contains the code to train the AXIOM architecture on data from the Gameworld 10k benchmark, as described in the preprint: "AXIOM: Learning to Play Games in Minutes with
-Expanding Object-Centric Models."
+This repository contains the code to train the AXIOM architecture on data from the Gameworld 10k benchmark, as described in the preprint: ["AXIOM: Learning to Play Games in Minutes with
+Expanding Object-Centric Models."](https://arxiv.org/abs/2505.24784)
 
 
 ## Installation
