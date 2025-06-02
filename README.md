@@ -1,7 +1,7 @@
 # AXIOM
 
-This repository contains the code to reproduce the paper AXIOM: Learning to Play Games in Minutes with
-Expanding Object-Centric Models.
+This repository contains the code to train the AXIOM architecture on data from the Gameworld 10k benchmark, as described in the preprint: "AXIOM: Learning to Play Games in Minutes with
+Expanding Object-Centric Models."
 
 
 ## Installation
@@ -36,3 +36,20 @@ python main.py --game=Explode --planning_horizon 16 --planning_rollouts 16 --num
 ```
 
 We also provide an `example.ipynb` notebook that allows to experiment in a Jupyter notebook and visualize various aspects of the models.
+
+## License
+
+Copyright 2025 VERSES AI, Inc.
+
+Licensed under the VERSES Academic Research License (the “License”);
+you may not use this file except in compliance with the license.
+
+You may obtain a copy of the License at
+
+    https://github.com/VersesTech/axiom/blob/main/LICENSE
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
